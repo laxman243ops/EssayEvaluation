@@ -1,0 +1,15 @@
+# Web Framework
+flask
+
+# Machine Learning & Data Processing
+pandas
+numpy
+scikit-learn
+lightgbm
+language-tool-python
+regex
+
+# Natural Language Processing
+sentence-transformers
+nltk
+spacy
