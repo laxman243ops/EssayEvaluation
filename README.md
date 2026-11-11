@@ -47,9 +47,11 @@ This solution demonstrates skills directly applicable to **Deloitte's Data & AI 
 3. **Run the application:**
    ```bash
    python src/app.py
-   These are the results:
-   <img width="473" height="160" alt="image" src="https://github.com/user-attachments/assets/02132836-41d6-4be9-bd56-309e663d858f" />
+4.**Results:**
+   ```bash
+<img width="473" height="160" alt="image" src="https://github.com/user-attachments/assets/52175248-9bf2-485f-b23b-c357f3188982" />
+<img width="1652" height="533" alt="image" src="https://github.com/user-attachments/assets/d830509f-6e52-40d9-8616-075e0142dad6" />
 
-   <img width="1652" height="533" alt="image" src="https://github.com/user-attachments/assets/32954bbb-3cb5-40b3-93aa-622dacadcc0f" />
+
 
 
